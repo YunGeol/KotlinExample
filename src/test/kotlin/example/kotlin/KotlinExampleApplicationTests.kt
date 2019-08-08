@@ -1,4 +1,4 @@
-package example.kotlin.KotlinExample
+package example.kotlin
 
 import org.junit.Test
 import org.junit.runner.RunWith
@@ -11,6 +11,7 @@ class KotlinExampleApplicationTests {
 
 	@Test
 	fun contextLoads() {
+		println("test")
 	}
 
 }
